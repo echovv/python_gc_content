@@ -49,5 +49,6 @@ def main():
     gc_content = calculate_gc_content(full_sequence)
     print(f"Overall GC Content: {gc_content:.2f}%"
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     main()
+    )
